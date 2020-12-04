@@ -3,7 +3,9 @@
 ! 버전 히스토리 : https://adguard.com/ko/versions/android/nightly.html
 ! 버전 : Nightly 4.0.48
 ! 업데이트 : 201204
+! Update by Apious
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
+! Issues 에서 문의, 제보, 신청 
 
 ||ssl.pstatic.net/static/m/comic/im/app_banner_list.jpg
 ||ssl.pstatic.net^$domain=m.naver.com
