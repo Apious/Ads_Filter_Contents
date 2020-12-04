@@ -1,6 +1,6 @@
 ! - AdGuard Contents for Android
 ! 웹 콘텐츠만 해당되며 DNS와 분류 됩니다
-! 버전 히스토리 : https://adguard.com/ko/versions/android/nightly.html
+! 앱 버전 히스토리 : https://adguard.com/ko/versions/android/nightly.html
 ! 버전 : Nightly 4.0.48
 ! 업데이트 : 201204
 ! Update by Apious
