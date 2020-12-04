@@ -4,7 +4,7 @@
 ! Update by Apious
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
 ! 버전 : Nightly 4.0.48
-! 업데이트 : 201204
+! 업데이트 : 201205
 
 ||www.mediacategory.com^
 ||toptmaptile3.tmap.co.kr^$app=com.skt.tmap.ku
