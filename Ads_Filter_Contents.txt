@@ -77,6 +77,11 @@
 ||*.ad.kakaocorp.com^
 ||*.ad.kakao.com^
 ||*.ad.daum.net^
+
+! - 캐치딜 앱 예외
+@@||api.onesignal.com^$app=com.catchdeal
+@@||onesignal.com^
+! - 기타
 @@||yellow.contentsfeed.com^$app=com.jobkorea.app
 @@||www.seehd.pl^
 @@||www.phoenixdarts.com/kr/shop^$app=com.hong.v3
