@@ -6,7 +6,6 @@
 ! 버전 : Nightly 4.0.48
 ! 업데이트 : 201209
 
-
 ||s.pstatic.net/static/www/mobile/edit^
 ||www.mediacategory.com^
 ||toptmaptile3.tmap.co.kr^$app=com.skt.tmap.ku
@@ -47,7 +46,6 @@
 ||adserver.rockwell.kakao.com^
 ||adimg.hani.co.kr^
 ||adcreative.naver.com^
-||adcr.naver.com^
 ||adclixad.daum.net^
 ||adclix.daum.net^
 ||ad.daum.net^
@@ -79,6 +77,7 @@
 ||*.ad.daum.net^
 
 ! - 기타
+
 @@||yellow.contentsfeed.com^$app=com.jobkorea.app
 @@||www.seehd.pl^
 @@||www.phoenixdarts.com/kr/shop^$app=com.hong.v3
