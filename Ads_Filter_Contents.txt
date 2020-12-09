@@ -6,30 +6,35 @@
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
 ! Version: 201209
 
-
-! Homepage: https://list-kr.github.io
-
+! - 네이버 모바일 관련
+||searchad.naver.com^
+||lcs.naver.com^
+||*.nbms.naver.com^
+||*.veta.naver.com^
+||*.tveta.naver.net^
+||*.tivan.naver.com^
+||*.ad.naver.com^
+||tivan.naver.com^
+||ad.*.naver.com^
+||adcreative.naver.com^
 ||s.pstatic.net/static/www/mobile/edit^
+||ssl.pstatic.net/static/m/comic/im/app_banner_list.jpg
+||naverpa-phinf.pstatic.net^
+! - 기타
 ||www.mediacategory.com^
 ||toptmaptile3.tmap.co.kr^$app=com.skt.tmap.ku
-||tivan.naver.com^
 ||static.yximgs.com^$app=com.estrongs.android.pop
 ||st2.exelbid.com/img^
-||ssl.pstatic.net/static/m/comic/im/app_banner_list.jpg
 ||spontaneousguarded.com^$app=idm.internet.download.manager.plus
 ||smrmembers-smr.smartmediarep.com^
-||siape.veta.naver.com/fxclick?^
-||searchad.naver.com^
 ||sdk-bid.exelbid.com^
 ||s.ppomppu.co.kr^
 ||open.e.kuaishou.com^$app=com.estrongs.android.pop
-||naverpa-phinf.pstatic.net^
 ||mplad.ahnlab.com:8880^
 ||m.stripe.com^$app=com.estrongs.android.pop
 ||m.shopping.nate.com^$domain=m.mail.nate.com
 ||m.health.chosun.com^
 ||log.snow.me^$app=com.snowcorp.soda.android
-||lcs.naver.com^
 ||kialant.com^$app=com.skt.tmap.ku
 ||is.snssdk.com^$app=com.estrongs.android.pop
 ||hazarbozkurt.com^$app=com.instaero.android
@@ -48,18 +53,12 @@
 ||adx.adcrony.co.kr^
 ||adserver.rockwell.kakao.com^
 ||adimg.hani.co.kr^
-||adcreative.naver.com^
 ||adclixad.daum.net^
 ||adclix.daum.net^
 ||ad.daum.net^
 ||ad.buzzvil.com^
 ||ad.3dpop.kr^
-||ad.*.naver.com^
 ||172.67.211.18:443^$app=com.instaero.android
-||*.veta.naver.com^
-||*.veta.naver.com/fxclick?*^$domain=m.comic.naver.com
-||*.tveta.naver.net^
-||*.tivan.naver.com^
 ||*.ssl2.duapps.com^$app=com.estrongs.android.pop
 ||*.snow.me/v1/notice^$app=com.campmobile.snow
 ||*.sgsnssdk.com^$app=com.estrongs.android.pop
@@ -68,18 +67,16 @@
 ||*.newsmobile.co.kr^
 ||*.newscj.com^
 ||*.nbryb.com^
-||*.nbms.naver.com^
 ||*.keywordsconnect.com^
 ||*.googleadservices.com^
 ||*.ctobsnssdk.com^$app=com.estrongs.android.pop
 ||*.bdurl.net^$app=com.estrongs.android.pop
 ||*.adpopcorn.com^
-||*.ad.naver.com^
 ||*.ad.kakaocorp.com^
 ||*.ad.kakao.com^
 ||*.ad.daum.net^
 
-! - 네이버 모바일
+! - 네이버 모바일 관련
 
 @@||m.entertain.naver.com^
 @@||m.naver.com/aside^
