@@ -78,7 +78,6 @@
 
 ! - 네이버 모바일 관련
 
-@@||m.entertain.naver.com^
 @@||m.naver.com/aside^
 @@||sp.naver.com^
 @@||learn.dict.naver.com^
