@@ -77,8 +77,12 @@
 ||*.ad.daum.net^
 
 ! - 네이버 모바일
-@@||m.entertain.naver.com
-
+@@||m.entertain.naver.com^
+@@||m.naver.com/aside^
+@@||sp.naver.com^
+@@||learn.dict.naver.com^
+@@||lcs.naver.com^
+@@||l.m.naver.com^
 ! - 기타
 @@||yellow.contentsfeed.com^$app=com.jobkorea.app
 @@||www.seehd.pl^
@@ -89,7 +93,6 @@
 @@||videoads.kakao.com^
 @@||t1.daumcdn.net^
 @@||syndication.realsrv.com^
-@@||sp.naver.com^
 @@||shoppinglist.google.com^
 @@||search1.daumcdn.net^$app=com.kakao.talk
 @@||s2s.singular.net^$app=com.riotgames.league.wildrift
@@ -102,10 +105,6 @@
 @@||m.giro.or.kr^
 @@||m.albamon.com^$app=com.albamon.app
 @@||log.ngsm.nexon.com^$app=com.nexon.nsc.maplem
-@@||learn.dict.naver.com^
-@@||m.naver.com/aside^
-@@||lcs.naver.com^
-@@||l.m.naver.com^
 @@||iyfsearch.com^
 @@||img.jobkorea.kr^$app=com.jobkorea.app
 @@||images.dmca.com^
@@ -114,7 +113,6 @@
 @@||decide.mixpanel.com^$app=com.lastpass.lpandroid
 @@||data.flurry.com^$app=com.sensopia.magicplan
 @@||csi.gstatic.com^
-@@||connect.facebook.net^$domain=m.comic.naver.com
 @@||coimg.jobkorea.co.kr^$app=com.albamon.app
 @@||code.jquery.com^$domain=m.mk.co.kr
 @@||cmp.osano.com^$app=com.riotgames.league.wildrift
