@@ -4,7 +4,8 @@
 ! Update by Apious
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
 ! 버전 : Nightly 4.0.48
-! 업데이트 : 201205
+! 업데이트 : 201209
+
 
 ||s.pstatic.net/static/www/mobile/edit^
 ||www.mediacategory.com^
