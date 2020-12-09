@@ -7,6 +7,8 @@
 ! Version: 201209
 
 ! - 네이버 모바일 관련
+||s.pstatic.net/static/www/mobile/*$image
+||m.naver.com##.ccb_banner
 ||searchad.naver.com^
 ||lcs.naver.com^
 ||*.nbms.naver.com^
