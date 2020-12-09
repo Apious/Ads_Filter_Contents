@@ -88,6 +88,7 @@
 @@||l.m.naver.com^
 
 ! - 기타
+@@||*.president.go.kr^
 @@||yellow.contentsfeed.com^$app=com.jobkorea.app
 @@||www.seehd.pl^
 @@||www.phoenixdarts.com/kr/shop^$app=com.hong.v3
