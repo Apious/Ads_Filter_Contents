@@ -11,8 +11,6 @@
 ||tivan.naver.com^
 ||static.yximgs.com^$app=com.estrongs.android.pop
 ||st2.exelbid.com/img^
-||ssl.pstatic.net^$domain=m.naver.com
-||ssl.pstatic.net/static/m/comic/im/app_banner_list.jpg
 ||ssl.pstatic.net/static/m/comic/im/app_banner_list.jpg
 ||spontaneousguarded.com^$app=idm.internet.download.manager.plus
 ||smrmembers-smr.smartmediarep.com^
@@ -78,10 +76,8 @@
 ||*.ad.kakao.com^
 ||*.ad.daum.net^
 
-! - 캐치딜 앱 예외
-@@||api.onesignal.com^$app=com.catchdeal
-@@||onesignal.com^
 ! - 기타
+
 @@||yellow.contentsfeed.com^$app=com.jobkorea.app
 @@||www.seehd.pl^
 @@||www.phoenixdarts.com/kr/shop^$app=com.hong.v3
@@ -105,6 +101,7 @@
 @@||m.albamon.com^$app=com.albamon.app
 @@||log.ngsm.nexon.com^$app=com.nexon.nsc.maplem
 @@||learn.dict.naver.com^
+@@||m.naver.com/aside^
 @@||lcs.naver.com^
 @@||l.m.naver.com^
 @@||iyfsearch.com^
