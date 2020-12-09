@@ -76,8 +76,10 @@
 ||*.ad.kakao.com^
 ||*.ad.daum.net^
 
-! - 기타
+! - 네이버 모바일
+@@||m.entertain.naver.com
 
+! - 기타
 @@||yellow.contentsfeed.com^$app=com.jobkorea.app
 @@||www.seehd.pl^
 @@||www.phoenixdarts.com/kr/shop^$app=com.hong.v3
