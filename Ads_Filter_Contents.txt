@@ -20,6 +20,7 @@
 ||s.pstatic.net/static/www/mobile/edit^
 ||ssl.pstatic.net/static/m/comic/im/app_banner_list.jpg
 ||naverpa-phinf.pstatic.net^
+
 ! - 기타
 ||www.mediacategory.com^
 ||toptmaptile3.tmap.co.kr^$app=com.skt.tmap.ku
@@ -77,12 +78,12 @@
 ||*.ad.daum.net^
 
 ! - 네이버 모바일 관련
-
 @@||m.naver.com/aside^
 @@||sp.naver.com^
 @@||learn.dict.naver.com^
 @@||lcs.naver.com^
 @@||l.m.naver.com^
+
 ! - 기타
 @@||yellow.contentsfeed.com^$app=com.jobkorea.app
 @@||www.seehd.pl^
