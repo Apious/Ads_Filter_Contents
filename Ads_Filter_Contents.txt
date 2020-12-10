@@ -80,6 +80,7 @@
 ||*.ad.daum.net^
 
 ! - 네이버 모바일 관련
+@@||s.pstatic.net^$domain=m.blog.naver.com
 @@||nid.naver.com^
 @@||m.comic.naver.com/webtoon^
 @@||m.naver.com/aside^
