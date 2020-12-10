@@ -90,6 +90,7 @@
 @@||l.m.naver.com^
 
 ! - 기타
+github.com$@$link[rel="manifest"]
 @@||rawdata.kr^
 @@||*.president.go.kr^
 @@||yellow.contentsfeed.com^$app=com.jobkorea.app
