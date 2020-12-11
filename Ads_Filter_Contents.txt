@@ -7,9 +7,8 @@
 ! Version: 201212
 
 ! - 네이버 모바일 관련
-||m.comic.naver.com/ad^
-||ssl.pstatic.net/tveta/libs^
-||ssl.pstatic.net/static/m/comic/im^
+m.comic.naver.com$@$div[id="ppl_default_section"]
+||ssl.pstatic.net/static/m/comic/im/app_banner_list.jpg
 ||s.pstatic.net/static/www/mobile/edit^
 ||*.ad.naver.com^
 ||*.nbms.naver.com^
@@ -24,6 +23,7 @@
 ||tivan.naver.com^
 
 ! - 기타
+github.com$@$link[rel="manifest"]
 ||www.mediacategory.com^
 ||toptmaptile3.tmap.co.kr^$app=com.skt.tmap.ku
 ||static.yximgs.com^$app=com.estrongs.android.pop
@@ -153,7 +153,6 @@
 
 ! - 기타
 @@||github.com^
-github.com$@$link[rel="manifest"]
 @@||rawdata.kr^
 @@||*.president.go.kr^
 @@||yellow.contentsfeed.com^$app=com.jobkorea.app
