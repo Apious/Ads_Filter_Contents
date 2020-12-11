@@ -4,7 +4,7 @@
 ! Title: Ads_Filter_Contents
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
-! Version: 201209
+! Version: 201211
 
 ! - 네이버 모바일 관련
 ||s.pstatic.net/static/www/mobile/*$image
