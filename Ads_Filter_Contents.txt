@@ -7,11 +7,10 @@
 ! Version: 201211
 
 ! - 네이버 모바일 관련
-||ssl.pstatic.net^
+!-||ssl.pstatic.net/tveta/libs/*$image
 ||ssl.pstatic.net/static/m/comic/im/app_banner_list.jpg
-||s.pstatic.net/static/www/mobile/*$image
-||s.pstatic.net/static/www/mobile/edit^
-||m.naver.com##.ccb_banner
+||s.pstatic.net/static/www/mobile/edit/*$image
+m.naver.com##.ccb_banner
 ||searchad.naver.com^
 ||lcs.naver.com^
 ||*.nbms.naver.com^
