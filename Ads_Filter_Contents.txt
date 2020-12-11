@@ -7,9 +7,9 @@
 ! Version: 201212
 
 ! - 네이버 모바일 관련
-||ssl.pstatic.net/tveta/libs/*$image
-||ssl.pstatic.net/static/m/comic/im/app_banner_list.jpg
-||s.pstatic.net/static/www/mobile/edit/*$image
+||ssl.pstatic.net/tveta/libs/$image
+||ssl.pstatic.net/static/m/comic/im/$image
+||s.pstatic.net/static/www/mobile/edit/$image
 ||searchad.naver.com^
 ||lcs.naver.com^
 ||*.nbms.naver.com^
@@ -80,7 +80,6 @@
 
 ! - 네이버 모바일 관련
 @@||nid.naver.com^
-@@||m.comic.naver.com/webtoon^
 @@||m.naver.com/aside^
 @@||sp.naver.com^
 @@||learn.dict.naver.com^
