@@ -7,6 +7,8 @@
 ! Version: 201212
 
 ! - 네이버 모바일 관련
+||event.impression-neo.naver.com^
+||adcr.naver.com^
 m.comic.naver.com$@$div[id="ppl_default_section"]
 ||ssl.pstatic.net/static/m/comic/im/app_banner_list.jpg
 ||s.pstatic.net/static/www/mobile/edit^
