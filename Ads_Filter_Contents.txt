@@ -7,20 +7,20 @@
 ! Version: 201212
 
 ! - 네이버 모바일 관련
-||ssl.pstatic.net/tveta/libs/$image
-||ssl.pstatic.net/static/m/comic/im/$image
-||s.pstatic.net/static/www/mobile/edit/$image
+||ssl.pstatic.net/tveta/libs/*
+||ssl.pstatic.net/static/m/comic/im/*
+||s.pstatic.net/static/www/mobile/edit/*
 ||searchad.naver.com^
 ||lcs.naver.com^
+||tivan.naver.com^
+||adcreative.naver.com^
+||naverpa-phinf.pstatic.net^
 ||*.nbms.naver.com^
 ||*.veta.naver.com^
 ||*.tveta.naver.net^
 ||*.tivan.naver.com^
 ||*.ad.naver.com^
 ||ad.*.naver.com^
-||tivan.naver.com^
-||adcreative.naver.com^
-||naverpa-phinf.pstatic.net^
 
 ! - 기타
 ||www.mediacategory.com^
