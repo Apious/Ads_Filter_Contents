@@ -8,7 +8,9 @@
 
 ! - 네이버 모바일 관련
 ||ssl.pstatic.net^
+||ssl.pstatic.net/static/m/comic/im/app_banner_list.jpg
 ||s.pstatic.net/static/www/mobile/*$image
+||s.pstatic.net/static/www/mobile/edit^
 ||m.naver.com##.ccb_banner
 ||searchad.naver.com^
 ||lcs.naver.com^
@@ -17,11 +19,9 @@
 ||*.tveta.naver.net^
 ||*.tivan.naver.com^
 ||*.ad.naver.com^
-||tivan.naver.com^
 ||ad.*.naver.com^
+||tivan.naver.com^
 ||adcreative.naver.com^
-||s.pstatic.net/static/www/mobile/edit^
-||ssl.pstatic.net/static/m/comic/im/app_banner_list.jpg
 ||naverpa-phinf.pstatic.net^
 
 ! - 기타
@@ -62,9 +62,9 @@
 ||ad.daum.net^
 ||ad.buzzvil.com^
 ||ad.3dpop.kr^
+||*.snow.me/v1/notice^$app=com.campmobile.snow
 ||172.67.211.18:443^$app=com.instaero.android
 ||*.ssl2.duapps.com^$app=com.estrongs.android.pop
-||*.snow.me/v1/notice^$app=com.campmobile.snow
 ||*.sgsnssdk.com^$app=com.estrongs.android.pop
 ||*.pstatp.com^$app=com.estrongs.android.pop
 ||*.piclick.kr^
@@ -126,6 +126,7 @@
 @@||ssl.pstatic.net^$domain=m.place.naver.com
 @@||ssl.pstatic.net^$domain=m.post.naver.com
 @@||ssl.pstatic.net^$domain=m.search.naver.com
+@@||ssl.pstatic.net^$domain=er.search.naver.com
 @@||ssl.pstatic.net^$domain=m.series.naver.com
 @@||ssl.pstatic.net^$domain=m.serieson.naver.com
 @@||ssl.pstatic.net^$domain=m.shopping.naver.com
