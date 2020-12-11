@@ -80,6 +80,7 @@
 ||*.ad.daum.net^
 
 ! - 네이버 모바일 관련
+@@||m.search.naver.com
 @@||ssl.pstatic.net^$app=com.kakao.talk
 @@||s.pstatic.net^$app=com.kakao.talk
 @@||nid.naver.com^
