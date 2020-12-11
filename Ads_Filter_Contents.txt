@@ -7,10 +7,10 @@
 ! Version: 201212
 
 ! - 네이버 모바일 관련
-||m.comic.naver.com/ad/*
-||ssl.pstatic.net/tveta/libs/*
-||ssl.pstatic.net/static/m/comic/im/*
-||s.pstatic.net/static/www/mobile/edit/*
+||m.comic.naver.com/ad^
+||ssl.pstatic.net/tveta/libs^
+||ssl.pstatic.net/static/m/comic/im^
+||s.pstatic.net/static/www/mobile/edit^
 ||*.ad.naver.com^
 ||*.nbms.naver.com^
 ||*.tivan.naver.com^
