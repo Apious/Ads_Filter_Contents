@@ -25,6 +25,7 @@ m.comic.naver.com$@$div[id="ppl_default_section"]
 ||tivan.naver.com^
 
 ! - 기타
+||newtoki*.com/guarantee.php
 github.com$@$link[rel="manifest"]
 ||www.mediacategory.com^
 ||toptmaptile3.tmap.co.kr^$app=com.skt.tmap.ku
