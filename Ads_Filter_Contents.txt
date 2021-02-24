@@ -156,6 +156,7 @@ github.com$@$link[rel="manifest"]
 @@||ssl.pstatic.net^$domain=whale.naver.com
 
 ! - 기타
+@@||connect.facebook.net^
 @@||github.com^
 @@||rawdata.kr^
 @@||*.president.go.kr^
