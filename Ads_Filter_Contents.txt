@@ -6,6 +6,18 @@
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
 ! Version: 210307
 
+! - GomPlayer
+||*.pangle.io^$app=com.gretech.gomplayerko
+||*.buzzvil.com^$app=com.gretech.gomplayerko
+||*.daumkakao.io^$app=com.gretech.gomplayerko
+||*.tnkad.net^$app=com.gretech.gomplayerko
+||*.facebook.com^$app=com.gretech.gomplayerko
+||api.*.avatye.com^$app=com.gretech.gomplayerko
+||reward-sdk.*.*.amazonaws.com^$app=com.gretech.gomplayerko,important
+||*.reward.avatye.com^$app=com.gretech.gomplayerko
+||reward-download.*.*.amazonaws.com^$app=com.gretech.gomplayerko
+||*.ibytedtos.com^$app=com.gretech.gomplayerko
+
 ! - 네이버 모바일 관련
 ||event.impression-neo.naver.com^
 ||adcr.naver.com^
@@ -25,6 +37,8 @@ m.comic.naver.com$@$div[id="ppl_default_section"]
 ||tivan.naver.com^
 
 ! - 기타
+||*.googleusercontent.com^$app=com.hexlant.todaywork,important
+||*.ggpht.com^$app=com.hexlant.todaywork
 ||tkor.*/bann^
 ||newtoki*.com/guarantee.php
 github.com$@$link[rel="manifest"]
