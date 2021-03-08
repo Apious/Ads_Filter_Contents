@@ -37,13 +37,13 @@ m.comic.naver.com$@$div[id="ppl_default_section"]
 ||tivan.naver.com^
 
 ! - 기타
+||*.googlesyndication.com^
 ||*.googleusercontent.com^$app=com.hexlant.todaywork,important
 ||*.ggpht.com^$app=com.hexlant.todaywork
 ||tkor.*/bann^
 ||newtoki*.com/guarantee.php
 github.com$@$link[rel="manifest"]
 ||www.mediacategory.com^
-||toptmaptile3.tmap.co.kr^$app=com.skt.tmap.ku
 ||static.yximgs.com^$app=com.estrongs.android.pop
 ||st2.exelbid.com/img^
 ||spontaneousguarded.com^$app=idm.internet.download.manager.plus
@@ -63,7 +63,6 @@ github.com$@$link[rel="manifest"]
 ||dbp.sktelecom.com^$app=com.skt.tmap.ku
 ||crab.baidu.com^$app=com.estrongs.android.pop
 ||connectmoment.tmap.co.kr^$app=com.skt.tmap.ku
-||cdn.tmap.co.kr^$app=com.skt.tmap.ku
 ||cdn-f.adsmoloco.com^$app=com.adguard.dns
 ||ca.adtc.daum.net^
 ||bit.ly^$app=com.skt.tmap.ku
