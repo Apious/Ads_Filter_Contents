@@ -6,6 +6,12 @@
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
 ! Version: 210307
 
+! - Tmap
+||starvoice.tmap.co.kr^$app=com.skt.tmap.ku
+||kialant.com^$app=com.skt.tmap.ku
+||dbp.sktelecom.com^$app=com.skt.tmap.ku
+||connectmoment.tmap.co.kr^$app=com.skt.tmap.ku
+
 ! - GomPlayer
 ||*.pangle.io^$app=com.gretech.gomplayerko
 ||*.buzzvil.com^$app=com.gretech.gomplayerko
@@ -56,14 +62,11 @@ github.com$@$link[rel="manifest"]
 ||m.shopping.nate.com^$domain=m.mail.nate.com
 ||m.health.chosun.com^
 ||log.snow.me^$app=com.snowcorp.soda.android
-||kialant.com^$app=com.skt.tmap.ku
 ||is.snssdk.com^$app=com.estrongs.android.pop
 ||hazarbozkurt.com^$app=com.instaero.android
 ||display.ad.daum.net^
-||dbp.sktelecom.com^$app=com.skt.tmap.ku
 ||crab.baidu.com^$app=com.estrongs.android.pop
-||connectmoment.tmap.co.kr^$app=com.skt.tmap.ku
-||cdn-f.adsmoloco.com^$app=com.adguard.dns
+||cdn-f.adsmoloco.com^
 ||ca.adtc.daum.net^
 ||bit.ly^$app=com.skt.tmap.ku
 ||api-es.doglobal.net^$app=com.estrongs.android.pop
