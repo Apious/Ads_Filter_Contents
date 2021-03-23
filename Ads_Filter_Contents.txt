@@ -47,6 +47,7 @@ m.comic.naver.com$@$div[id="ppl_default_section"]
 ||*.googleusercontent.com^$app=com.hexlant.todaywork,important
 ||*.ggpht.com^$app=com.hexlant.todaywork
 ||tkor.*/bann^
+||tkor.*/*/*/*/*.gif^
 ||newtoki*.com/guarantee.php
 github.com$@$link[rel="manifest"]
 ||www.mediacategory.com^
