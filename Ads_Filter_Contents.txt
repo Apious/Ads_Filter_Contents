@@ -6,6 +6,11 @@
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
 ! Version: 210327
 
+! - Samsung Default Apps
+||*.cloudfront.net^
+||graph.facebook.com^$app=com.samsung.android.voc
+||img.samsungmembers.com/default/banner^$app=com.samsung.android.voc
+
 ! - Tmap
 ||starvoice.tmap.co.kr^$app=com.skt.tmap.ku
 ||kialant.com^$app=com.skt.tmap.ku
