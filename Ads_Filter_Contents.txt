@@ -176,6 +176,7 @@ github.com$@$link[rel="manifest"]
 @@||ssl.pstatic.net^$domain=whale.naver.com
 
 ! - 기타
+@@||inapps.appsflyer.com^$app=com.nbdproject.macarong
 @@||connect.facebook.net^
 @@||github.com^
 @@||rawdata.kr^
