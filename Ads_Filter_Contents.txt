@@ -8,8 +8,7 @@
 
 ! - Samsung Default Apps
 ||*.cloudfront.net^
-||graph.facebook.com^$app=com.samsung.android.voc
-||img.samsungmembers.com/default/banner^
+||*.samsungmembers.com/default/banner^
 
 ! - Tmap
 ||starvoice.tmap.co.kr^$app=com.skt.tmap.ku
