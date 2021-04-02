@@ -7,7 +7,6 @@
 ! Version: 210327
 
 ! - Samsung Default Apps
-||*.cloudfront.net^
 ||*.samsungmembers.com/default/banner^
 
 ! - Tmap
