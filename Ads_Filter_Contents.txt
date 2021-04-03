@@ -14,7 +14,6 @@
 ||kialant.com^$app=com.skt.tmap.ku
 ||dbp.sktelecom.com^$app=com.skt.tmap.ku
 ||connectmoment.tmap.co.kr^$app=com.skt.tmap.ku
-||analytics.google.com^$app=com.skt.tmap.ku
 ||bit.ly^$app=com.skt.tmap.ku
 
 ! - GomPlayer
