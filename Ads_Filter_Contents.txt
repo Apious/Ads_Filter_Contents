@@ -13,7 +13,6 @@
 ||starvoice.tmap.co.kr^$app=com.skt.tmap.ku
 ||kialant.com^$app=com.skt.tmap.ku
 ||dbp.sktelecom.com^$app=com.skt.tmap.ku
-||connectmoment.tmap.co.kr^$app=com.skt.tmap.ku
 ||bit.ly^$app=com.skt.tmap.ku
 
 ! - GomPlayer
@@ -47,7 +46,6 @@ m.comic.naver.com$@$div[id="ppl_default_section"]
 ||tivan.naver.com^
 
 ! - 기타
-||*.googlesyndication.com^
 ||tkor.*/bann^
 ||tkor.*/*/*/*/*.gif^
 ||newtoki*.com/guarantee.php
