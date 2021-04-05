@@ -181,7 +181,6 @@ github.com$@$link[rel="manifest"]
 @@||yellow.contentsfeed.com^$app=com.jobkorea.app
 @@||www.seehd.pl^
 @@||www.phoenixdarts.com/kr/shop^$app=com.hong.v3
-@@||www.googletagmanager.com^
 @@||watch-online.xyz^
 @@||videostats.kakao.com^$app=com.kakao.talk
 @@||videoads.kakao.com^
