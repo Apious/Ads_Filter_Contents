@@ -223,7 +223,6 @@ github.com$@$link[rel="manifest"]
 @@||[2404:6800:4004:81b::2004]:443^
 @@||*.yomovies.it^
 @@||*.tiara.kakao.com^
-@@||*.tiara.daum.net^
 @@||*.project-free-tv.ag^
 @@||*.ml.youngjoygame.com^$app=com.mobile.legends
 @@||*.amazonaws.com^
