@@ -4,7 +4,7 @@
 ! Title: Ads_Filter_Contents
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
-! Version: 210327
+! Version: 210405
 
 ! - Samsung Default Apps
 ||*.samsungmembers.com/default/banner^
@@ -172,6 +172,7 @@ github.com$@$link[rel="manifest"]
 @@||ssl.pstatic.net^$domain=whale.naver.com
 
 ! - 기타
+@@||*.christiandate.kr^
 @@||inapps.appsflyer.com^$app=com.nbdproject.macarong
 @@||connect.facebook.net^
 @@||github.com^
