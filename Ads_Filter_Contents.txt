@@ -7,7 +7,11 @@
 ! Version: 210405
 
 ! - Samsung Default Apps
-||*.samsungmembers.com/default/banner^
+||img.samsungapps.com/display^$app=com.sec.android.app.samsungapps
+||img.samsungapps.com/productNew^$app=com.sec.android.app.samsungapps
+||img.samsungapps.com/promotion^$app=com.sec.android.app.samsungapps
+||img.samsungapps.com^$app=com.samsung.android.game.gamehome
+||img.samsungmembers.com/default/banner^
 
 ! - Tmap
 ||starvoice.tmap.co.kr^$app=com.skt.tmap.ku
