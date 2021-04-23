@@ -4,7 +4,7 @@
 ! Title: Ads_Filter_Contents
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
-! Version: 210405
+! Version: 210424
 
 ! - Samsung Default Apps
 ||img.samsungapps.com/display^$app=com.sec.android.app.samsungapps
@@ -14,9 +14,9 @@
 ||img.samsungmembers.com/default/banner^
 
 ! - Tmap
-||starvoice.tmap.co.kr^$app=com.skt.tmap.ku
-||kialant.com^$app=com.skt.tmap.ku
-||dbp.sktelecom.com^$app=com.skt.tmap.ku
+||starvoice.tmap.co.kr^
+||kialant.com
+||dbp.sktelecom.com^
 ||bit.ly^$app=com.skt.tmap.ku
 
 ! - GomPlayer
@@ -50,6 +50,7 @@ m.comic.naver.com$@$div[id="ppl_default_section"]
 ||tivan.naver.com^
 
 ! - 기타
+||ad-img.ebaykorea.com^
 ||tkor.*/bann^
 ||tkor.*/*/*/*/*.gif^
 ||newtoki*.com/guarantee.php
