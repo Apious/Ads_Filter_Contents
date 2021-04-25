@@ -4,7 +4,12 @@
 ! Title: Ads_Filter_Contents
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
-! Version: 210424
+! Version: 210425
+
+! - AfreecaTV
+||deapi.afreecatv.com^$domain=android.afreecatv.com,app=kr.co.nowcom.mobile.afreeca
+||cache.m.afreecatv.com/application/theme^$app=kr.co.nowcom.mobile.afreeca
+||stimg.afreecatv.com/LOGO^$app=kr.co.nowcom.mobile.afreeca
 
 ! - Samsung Default Apps
 ||img.samsungapps.com/display^$app=com.sec.android.app.samsungapps
