@@ -4,7 +4,11 @@
 ! Title: Ads_Filter_Contents
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
-! Version: 210425
+! Version: 210427
+
+! - Macarong app
+||bit.ly^$app=com.nbdproject.macarong
+@@||inapps.appsflyer.com^$app=com.nbdproject.macarong
 
 ! - AfreecaTV
 ||deapi.afreecatv.com^
@@ -183,7 +187,6 @@ github.com$@$link[rel="manifest"]
 
 ! - 기타
 @@||*.christiandate.kr^
-@@||inapps.appsflyer.com^$app=com.nbdproject.macarong
 @@||connect.facebook.net^
 @@||github.com^
 @@||rawdata.kr^
