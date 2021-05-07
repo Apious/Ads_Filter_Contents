@@ -15,6 +15,7 @@
 ||*.googleadservices.com^$important
 @@||shoppinglist.google.com^
 
+
 ! - Macarong app
 ||bit.ly^$app=com.nbdproject.macarong
 @@||inapps.appsflyer.com^$app=com.nbdproject.macarong
