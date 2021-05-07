@@ -6,6 +6,15 @@
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
 ! Version: 210507
 
+! - Google Ads
+||www.gstatic.com^$important
+||www.googletagservices.com^$important
+||lh3.googleusercontent.com^&important
+||firebaseremoteconfig.googleapis.com^$app=com.softworx.cai,important
+||firebaseinstallations.googleapis.com^$app=com.softworx.cai,important
+||*.googleadservices.com^$important
+@@||shoppinglist.google.com^
+
 ! - Macarong app
 ||bit.ly^$app=com.nbdproject.macarong
 @@||inapps.appsflyer.com^$app=com.nbdproject.macarong
@@ -103,7 +112,6 @@ github.com$@$link[rel="manifest"]
 ||*.newscj.com^
 ||*.nbryb.com^
 ||*.keywordsconnect.com^
-||*.googleadservices.com^$important
 ||*.ctobsnssdk.com^$app=com.estrongs.android.pop
 ||*.bdurl.net^$app=com.estrongs.android.pop
 ||*.adpopcorn.com^$important
@@ -197,7 +205,6 @@ github.com$@$link[rel="manifest"]
 @@||videoads.kakao.com^
 @@||t1.daumcdn.net^
 @@||syndication.realsrv.com^
-@@||shoppinglist.google.com^
 @@||search1.daumcdn.net^$app=com.kakao.talk
 @@||s2s.singular.net^$app=com.riotgames.league.wildrift
 @@||s1.daumcdn.net^
