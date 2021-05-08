@@ -70,8 +70,8 @@ m.comic.naver.com$@$div[id="ppl_default_section"]
 
 ! - 기타
 ||ad-img.ebaykorea.com^
-||tkor.*/bann^
-||tkor.*/*/*/*/*.gif^
+||tkor.*/bann^$important
+||tkor.*/*/*/*/*.gif^$important
 ||newtoki*.com/guarantee.php
 github.com$@$link[rel="manifest"]
 ||www.mediacategory.com^
