@@ -197,6 +197,7 @@ github.com$@$link[rel="manifest"]
 @@||ssl.pstatic.net^$domain=whale.naver.com
 
 ! - 기타
+@@||www.gstatic.com/_/apps-fileview^
 @@||*.christiandate.kr^
 @@||connect.facebook.net^
 @@||github.com^
