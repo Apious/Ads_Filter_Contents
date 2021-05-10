@@ -49,6 +49,9 @@
 ||*.reward.avatye.com^$app=com.gretech.gomplayerko
 ||reward-download.*.*.amazonaws.com^$app=com.gretech.gomplayerko
 ||*.ibytedtos.com^$app=com.gretech.gomplayerko
+@@||*.ibytedtos.com^$stylesheet
+||*.ipstatp.com^
+@@||s0.ipstatp.com/transno/*
 
 ! - 네이버 모바일 관련
 ||event.impression-neo.naver.com^
@@ -194,7 +197,6 @@ github.com$@$link[rel="manifest"]
 @@||ssl.pstatic.net^$domain=whale.naver.com
 
 ! - 기타
-@@||*.ibytedtos.com^$stylesheet
 @@||*.christiandate.kr^
 @@||connect.facebook.net^
 @@||github.com^
