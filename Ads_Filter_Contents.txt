@@ -4,7 +4,7 @@
 ! Title: Ads_Filter_Contents
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
-! Version: 210507
+! Version: 210510
 
 ! - Google Ads
 ||www.gstatic.com^$important
@@ -194,6 +194,7 @@ github.com$@$link[rel="manifest"]
 @@||ssl.pstatic.net^$domain=whale.naver.com
 
 ! - 기타
+@@||*.ibytedtos.com^$stylesheet
 @@||*.christiandate.kr^
 @@||connect.facebook.net^
 @@||github.com^
