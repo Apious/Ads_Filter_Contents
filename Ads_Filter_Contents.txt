@@ -7,11 +7,9 @@
 ! Version: 210512
 
 ! - Google Ads
-||www.gstatic.com^$important
-||www.googletagservices.com^$important
 ||lh3.googleusercontent.com^&important
-||firebaseremoteconfig.googleapis.com^$app=com.softworx.cai,important
-||firebaseinstallations.googleapis.com^$app=com.softworx.cai,important
+||firebaseremoteconfig.googleapis.com^$important
+||firebaseinstallations.googleapis.com^$important
 ||*.googleadservices.com^$important
 @@||shoppinglist.google.com^
 @@||www.gstatic.com/_/apps-fileview^
