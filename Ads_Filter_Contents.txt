@@ -7,7 +7,6 @@
 ! Version: 210512
 
 ! - Google Ads
-||lh3.googleusercontent.com^&important
 ||firebaseremoteconfig.googleapis.com^$important
 ||firebaseinstallations.googleapis.com^$important
 ||*.googleadservices.com^$important
