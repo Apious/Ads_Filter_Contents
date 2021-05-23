@@ -4,7 +4,21 @@
 ! Title: Ads_Filter_Contents
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
-! Version: 210521
+! Version: 210524
+
+! - Kakao, Daum
+||mud-kage.kakao.co.kr^
+||display.ad.daum.net^
+||kyson.ad.daum.net^
+||webid.ad.daum.net^
+||*.ad.kakaocorp.com^$important
+||ad-content.moment.kakao.com^$important
+||adserver.rockwell.kakao.com^$important
+||*.ad.kakao.com^$important
+@@||*.tiara.kakao.com^
+@@||videoads.kakao.com^
+@@||videostats.kakao.com^$app=com.kakao.talk
+@@||search1.daumcdn.net^$app=com.kakao.talk
 
 ! - Google Ads
 ||firebaseremoteconfig.googleapis.com^$important
@@ -12,13 +26,14 @@
 ||*.googleadservices.com^$important
 @@||shoppinglist.google.com^
 @@||www.gstatic.com/_/apps-fileview^
-
+@@||csi.gstatic.com^
 
 ! - Macarong app
 ||bit.ly^$app=com.nbdproject.macarong
 @@||inapps.appsflyer.com^$app=com.nbdproject.macarong
 
 ! - AfreecaTV
+||admvod.afreecatv.com^
 ||deapi.afreecatv.com^
 ||cache.m.afreecatv.com/application/theme^
 ||stimg.afreecatv.com/LOGO^
@@ -51,7 +66,7 @@
 ||*.ipstatp.com^
 @@||s0.ipstatp.com/transno/*
 
-! - 네이버 모바일 관련
+! - Naver Ads
 ||event.impression-neo.naver.com^
 ||adcr.naver.com^
 m.comic.naver.com$@$div[id="ppl_default_section"]
@@ -99,7 +114,6 @@ github.com$@$link[rel="manifest"]
 ||amsv2.daum.net^$important
 ||amsimg.daum-img.net^$important
 ||adx.adcrony.co.kr^$important
-||adserver.rockwell.kakao.com^$important
 ||adimg.hani.co.kr^$important
 ||adclixad.daum.net^$important
 ||adclix.daum.net^$important
@@ -118,8 +132,6 @@ github.com$@$link[rel="manifest"]
 ||*.ctobsnssdk.com^$app=com.estrongs.android.pop
 ||*.bdurl.net^$app=com.estrongs.android.pop
 ||*.adpopcorn.com^$important
-||*.ad.kakaocorp.com^$important
-||*.ad.kakao.com^$important
 ||*.ad.daum.net^$important
 
 ! - 네이버 모바일 관련
@@ -195,7 +207,6 @@ github.com$@$link[rel="manifest"]
 @@||ssl.pstatic.net^$domain=whale.naver.com
 
 ! - 기타
-@@||www.gstatic.com/_/apps-fileview^
 @@||*.christiandate.kr^
 @@||connect.facebook.net^
 @@||github.com^
@@ -205,11 +216,8 @@ github.com$@$link[rel="manifest"]
 @@||www.seehd.pl^
 @@||www.phoenixdarts.com/kr/shop^$app=com.hong.v3
 @@||watch-online.xyz^
-@@||videostats.kakao.com^$app=com.kakao.talk
-@@||videoads.kakao.com^
 @@||t1.daumcdn.net^
 @@||syndication.realsrv.com^
-@@||search1.daumcdn.net^$app=com.kakao.talk
 @@||s2s.singular.net^$app=com.riotgames.league.wildrift
 @@||s1.daumcdn.net^
 @@||outcome-ssp.supersonicads.com^$app=com.gameloft.android.ANMP.GloftA8HM
@@ -227,7 +235,6 @@ github.com$@$link[rel="manifest"]
 @@||ds.jobkorea.kr^$app=com.albamon.app
 @@||decide.mixpanel.com^$app=com.lastpass.lpandroid
 @@||data.flurry.com^$app=com.sensopia.magicplan
-@@||csi.gstatic.com^
 @@||coimg.jobkorea.co.kr^$app=com.albamon.app
 @@||code.jquery.com^$domain=m.mk.co.kr
 @@||cmp.osano.com^$app=com.riotgames.league.wildrift
@@ -243,7 +250,6 @@ github.com$@$link[rel="manifest"]
 @@||[2404:6800:4005:808::2008]:443^
 @@||[2404:6800:4004:81b::2004]:443^
 @@||*.yomovies.it^
-@@||*.tiara.kakao.com^
 @@||*.project-free-tv.ag^
 @@||*.ml.youngjoygame.com^$app=com.mobile.legends
 @@||*.amazonaws.com^
