@@ -4,7 +4,30 @@
 ! Title: Ads_Filter_Contents
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
-! Version: 210524
+! Version: 210527
+
+! - Youtube
+||www.youtube.com/embed/$subdocument
+youtube.com###ticker-content
+youtube.com###watch7-sidebar-offer
+youtube.com##.float-mealbar
+youtube.com##.iv-merch-shelf
+youtube.com##.mealbar-promo-renderer
+youtube.com##.ytp-cards-button
+youtube.com##.ytp-cards-teaser
+youtube.com##.ytp-ce-covering-image
+youtube.com##.ytp-ce-covering-overlay
+youtube.com##.ytp-ce-element
+youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-element-show
+youtube.com##.ytp-ce-element-shadow
+youtube.com##.ytp-ce-expanding-image
+youtube.com##.ytp-endscreen-content
+youtube.com##.ytp-pause-overlay
+youtube.com##.ytp-related-on-error-overlay
+youtube.com##.ytp-scroll-min.ytp-pause-overlay
+@@||www.youtube.com^$domain=play.google.com
+@@||www.youtube.com^$subdocument
 
 ! - Kakao, Daum
 ||mud-kage.kakao.co.kr^
