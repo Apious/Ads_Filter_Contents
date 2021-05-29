@@ -4,7 +4,7 @@
 ! Title: Ads_Filter_Contents
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
-! Version: 210527
+! Version: 210529
 
 ! - Youtube
 ||www.youtube.com/embed/$subdocument
