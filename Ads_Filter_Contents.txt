@@ -30,7 +30,6 @@ youtube.com##.ytp-scroll-min.ytp-pause-overlay
 @@||www.youtube.com^$subdocument
 
 ! - Kakao, Daum
-
 ||display.ad.daum.net^
 ||kyson.ad.daum.net^
 ||webid.ad.daum.net^
