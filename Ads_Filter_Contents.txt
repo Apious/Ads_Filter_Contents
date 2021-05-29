@@ -30,7 +30,7 @@ youtube.com##.ytp-scroll-min.ytp-pause-overlay
 @@||www.youtube.com^$subdocument
 
 ! - Kakao, Daum
-||mud-kage.kakao.co.kr^
+
 ||display.ad.daum.net^
 ||kyson.ad.daum.net^
 ||webid.ad.daum.net^
@@ -108,6 +108,7 @@ m.comic.naver.com$@$div[id="ppl_default_section"]
 ||tivan.naver.com^
 
 ! - 기타
+||[2404:6800:4005:820::200a]:443^
 ||ad-img.ebaykorea.com^
 tkor.*##.bnt.bn
 ||tkor.*/bann^$important
