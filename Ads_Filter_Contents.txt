@@ -4,7 +4,7 @@
 ! Title: Ads_Filter_Contents
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
-! Version: 210529
+! Version: 210602
 
 ! - Youtube
 ||www.youtube.com/embed/$subdocument
@@ -43,8 +43,7 @@ youtube.com##.ytp-scroll-min.ytp-pause-overlay
 @@||search1.daumcdn.net^$app=com.kakao.talk
 
 ! - Google Ads
-||firebaseremoteconfig.googleapis.com^$important
-||firebaseinstallations.googleapis.com^$important
+||firebaseremoteconfig.googleapis.com^
 ||*.googleadservices.com^$important
 @@||shoppinglist.google.com^
 @@||www.gstatic.com/_/apps-fileview^
