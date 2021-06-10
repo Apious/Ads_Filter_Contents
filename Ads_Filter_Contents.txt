@@ -4,7 +4,7 @@
 ! Title: Ads_Filter_Contents
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
-! Version: 210602
+! Version: 210610
 
 ! - Youtube
 ||www.youtube.com/embed/$subdocument
@@ -43,10 +43,9 @@ youtube.com##.ytp-scroll-min.ytp-pause-overlay
 @@||search1.daumcdn.net^$app=com.kakao.talk
 
 ! - Google Ads
-||firebaseremoteconfig.googleapis.com^
 ||*.googleadservices.com^$important
 @@||shoppinglist.google.com^
-@@||www.gstatic.com/_/apps-fileview^
+@@||www.gstatic.com^
 @@||csi.gstatic.com^
 
 ! - Macarong app
