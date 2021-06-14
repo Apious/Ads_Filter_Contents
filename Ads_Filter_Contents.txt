@@ -4,7 +4,7 @@
 ! Title: Ads_Filter_Contents
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
-! Version: 210610
+! Version: 210614
 
 ! - Youtube
 ||www.youtube.com/embed/$subdocument
@@ -64,6 +64,8 @@ youtube.com##.ytp-scroll-min.ytp-pause-overlay
 ||img.samsungapps.com/promotion^$app=com.sec.android.app.samsungapps
 ||img.samsungapps.com^$app=com.samsung.android.game.gamehome
 ||img.samsungmembers.com/default/banner^$important
+@@||*.samsungdm.com^
+@@||*.ospserver.net^
 
 ! - Tmap
 ||starvoice.tmap.co.kr^$app=com.skt.tmap.ku,important
