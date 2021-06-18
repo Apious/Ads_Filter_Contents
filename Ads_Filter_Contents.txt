@@ -231,6 +231,7 @@ github.com$@$link[rel="manifest"]
 ||*.ad.daum.net^$important
 
 ! - 기타 예외
+@@*$generichide,domain=techyneed.com
 @@||www.sk7mobile.com^
 @@||*.christiandate.kr^
 @@||connect.facebook.net^
