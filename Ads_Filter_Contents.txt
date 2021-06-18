@@ -4,7 +4,7 @@
 ! Title: Ads_Filter_Contents
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
-! Version: 210614
+! Version: 210618
 
 ! - Youtube
 ||www.youtube.com/embed/$subdocument
@@ -107,6 +107,7 @@ m.comic.naver.com$@$div[id="ppl_default_section"]
 ||tivan.naver.com^
 
 ! - 기타
+||ad.*.skt-jive.com^
 ||[2404:6800:4005:820::200a]:443^
 ||ad-img.ebaykorea.com^
 tkor.*##.bnt.bn
