@@ -88,7 +88,7 @@ youtube.com##.ytp-scroll-min.ytp-pause-overlay
 ||*.ipstatp.com^
 @@||s0.ipstatp.com/transno/*
 
-! - Naver Ads
+! - 네이버 광고
 ||event.impression-neo.naver.com^
 ||adcr.naver.com^
 m.comic.naver.com$@$div[id="ppl_default_section"]
@@ -106,59 +106,7 @@ m.comic.naver.com$@$div[id="ppl_default_section"]
 ||searchad.naver.com^$important
 ||tivan.naver.com^
 
-! - 기타
-||ad.*.skt-jive.com^
-||[2404:6800:4005:820::200a]:443^
-||ad-img.ebaykorea.com^
-tkor.*##.bnt.bn
-||tkor.*/bann^$important
-||tkor.*/*/*/*/*.gif^$important
-||newtoki*.com/guarantee.php
-github.com$@$link[rel="manifest"]
-||www.mediacategory.com^
-||static.yximgs.com^$app=com.estrongs.android.pop
-||st2.exelbid.com/img^
-||spontaneousguarded.com^$app=idm.internet.download.manager.plus
-||smrmembers-smr.smartmediarep.com^
-||sdk-bid.exelbid.com^
-||s.ppomppu.co.kr^
-||open.e.kuaishou.com^$app=com.estrongs.android.pop
-||mplad.ahnlab.com:8880^$important
-||m.stripe.com^$app=com.estrongs.android.pop
-||m.shopping.nate.com^$domain=m.mail.nate.com
-||m.health.chosun.com^
-||log.snow.me^$app=com.snowcorp.soda.android
-||is.snssdk.com^$app=com.estrongs.android.pop
-||display.ad.daum.net^$important
-||crab.baidu.com^$app=com.estrongs.android.pop
-||cdn-f.adsmoloco.com^$important
-||ca.adtc.daum.net^$important
-||api-es.doglobal.net^$app=com.estrongs.android.pop
-||ap.tnkfactory.com^
-||amsv2.daum.net^$important
-||amsimg.daum-img.net^$important
-||adx.adcrony.co.kr^$important
-||adimg.hani.co.kr^$important
-||adclixad.daum.net^$important
-||adclix.daum.net^$important
-||ad.daum.net^$important
-||ad.buzzvil.com^
-||ad.3dpop.kr^$important
-||*.snow.me/v1/notice^$app=com.campmobile.snow,important
-||*.ssl2.duapps.com^$app=com.estrongs.android.pop
-||*.sgsnssdk.com^$app=com.estrongs.android.pop
-||*.pstatp.com^$app=com.estrongs.android.pop
-||*.piclick.kr^
-||*.newsmobile.co.kr^
-||*.newscj.com^
-||*.nbryb.com^
-||*.keywordsconnect.com^
-||*.ctobsnssdk.com^$app=com.estrongs.android.pop
-||*.bdurl.net^$app=com.estrongs.android.pop
-||*.adpopcorn.com^$important
-||*.ad.daum.net^$important
-
-! - 네이버 모바일 관련
+! - 네이버 예외
 @@||nid.naver.com^
 @@||m.naver.com/aside^
 @@||sp.naver.com^
@@ -230,7 +178,60 @@ github.com$@$link[rel="manifest"]
 @@||ssl.pstatic.net^$domain=weather.naver.com
 @@||ssl.pstatic.net^$domain=whale.naver.com
 
-! - 기타
+! - 기타 광고 적용
+||ad.*.skt-jive.com^
+||[2404:6800:4005:820::200a]:443^
+||ad-img.ebaykorea.com^
+tkor.*##.bnt.bn
+||tkor.*/bann^$important
+||tkor.*/*/*/*/*.gif^$important
+||newtoki*.com/guarantee.php
+github.com$@$link[rel="manifest"]
+||www.mediacategory.com^
+||static.yximgs.com^$app=com.estrongs.android.pop
+||st2.exelbid.com/img^
+||spontaneousguarded.com^$app=idm.internet.download.manager.plus
+||smrmembers-smr.smartmediarep.com^
+||sdk-bid.exelbid.com^
+||s.ppomppu.co.kr^
+||open.e.kuaishou.com^$app=com.estrongs.android.pop
+||mplad.ahnlab.com:8880^$important
+||m.stripe.com^$app=com.estrongs.android.pop
+||m.shopping.nate.com^$domain=m.mail.nate.com
+||m.health.chosun.com^
+||log.snow.me^$app=com.snowcorp.soda.android
+||is.snssdk.com^$app=com.estrongs.android.pop
+||display.ad.daum.net^$important
+||crab.baidu.com^$app=com.estrongs.android.pop
+||cdn-f.adsmoloco.com^$important
+||ca.adtc.daum.net^$important
+||api-es.doglobal.net^$app=com.estrongs.android.pop
+||ap.tnkfactory.com^
+||amsv2.daum.net^$important
+||amsimg.daum-img.net^$important
+||adx.adcrony.co.kr^$important
+||adimg.hani.co.kr^$important
+||adclixad.daum.net^$important
+||adclix.daum.net^$important
+||ad.daum.net^$important
+||ad.buzzvil.com^
+||ad.3dpop.kr^$important
+||*.snow.me/v1/notice^$app=com.campmobile.snow,important
+||*.ssl2.duapps.com^$app=com.estrongs.android.pop
+||*.sgsnssdk.com^$app=com.estrongs.android.pop
+||*.pstatp.com^$app=com.estrongs.android.pop
+||*.piclick.kr^
+||*.newsmobile.co.kr^
+||*.newscj.com^
+||*.nbryb.com^
+||*.keywordsconnect.com^
+||*.ctobsnssdk.com^$app=com.estrongs.android.pop
+||*.bdurl.net^$app=com.estrongs.android.pop
+||*.adpopcorn.com^$important
+||*.ad.daum.net^$important
+
+! - 기타 예외
+@@||www.sk7mobile.com^
 @@||*.christiandate.kr^
 @@||connect.facebook.net^
 @@||github.com^
