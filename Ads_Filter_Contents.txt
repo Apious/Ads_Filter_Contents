@@ -44,6 +44,7 @@ youtube.com##.ytp-scroll-min.ytp-pause-overlay
 
 ! - Google Ads
 ||*.googleadservices.com^$important
+||googleads.g.doubleclick.net^
 @@||shoppinglist.google.com^
 @@||www.gstatic.com^
 @@||csi.gstatic.com^
