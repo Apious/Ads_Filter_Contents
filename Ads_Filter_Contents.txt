@@ -4,7 +4,7 @@
 ! Title: Ads_Filter_Contents
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
-! Version: 210618
+! Version: 210630
 
 ! - Youtube
 ||www.youtube.com/embed/$subdocument
@@ -68,7 +68,8 @@ youtube.com##.ytp-scroll-min.ytp-pause-overlay
 @@||*.ospserver.net^
 
 ! - Tmap
-||starvoice.tmap.co.kr^$app=com.skt.tmap.ku,important
+||event.tmap.co.kr^
+||starvoice.tmap.co.kr^
 ||kialant.com^$app=com.skt.tmap.ku,important
 ||dbp.sktelecom.com^$app=com.skt.tmap.ku,important
 ||bit.ly^$app=com.skt.tmap.ku,important
