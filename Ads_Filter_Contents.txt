@@ -4,7 +4,7 @@
 ! Title: Ads_Filter_Contents
 ! Homepage: https://apious.tistory.com/
 ! 문의 : https://github.com/Apious/Ads_Filter_Contents/issues
-! Version: 210630
+! Version: 210705
 
 ! - Youtube
 ||www.youtube.com/embed/$subdocument
@@ -233,6 +233,7 @@ github.com$@$link[rel="manifest"]
 ||*.ad.daum.net^$important
 
 ! - 기타 예외
+@@||hypebeast.kr^
 @@*$generichide,domain=techyneed.com
 @@||www.sk7mobile.com^
 @@||*.christiandate.kr^
